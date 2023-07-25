@@ -1,4 +1,4 @@
-package Main2;
+package ClassWork;
 
 import java.util.Scanner;
 

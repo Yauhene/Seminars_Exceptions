@@ -1,4 +1,4 @@
-package Main3;
+package ClassWork;
 
 public class Main3 {
     /*
